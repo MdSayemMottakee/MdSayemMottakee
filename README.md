@@ -5,22 +5,22 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://facebook.com/Mottakee"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Mottakee Siam">
   </a>
   <a href="https://instagram.com/__ryuk24__/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Mottakee Siam">
   </a>
   <a href="https://www.linkedin.com/in/md-sayem-mottakee/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Md Sayem Mottakee">
   </a>
   <a href="https://x.com/@SMottakee">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="@SMottakee">
   </a>
   <a href="mailto:smottakee@gmail.com">
-    <img src="https://img.shields.io/badge/-X@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:X@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-smottakee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smottakee@gmail.com" alt="smottakee@gmail.com">
   </a>
   <a href="https://github.com/MdSayemMottakee">
-    <img src="https://img.shields.io/github/followers/X?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/MdSayemMottakee?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
   </a>
 </p>
 
