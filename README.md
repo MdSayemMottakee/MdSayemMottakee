@@ -19,9 +19,6 @@
   <a href="mailto:smottakee@gmail.com">
     <img src="https://img.shields.io/badge/-smottakee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smottakee@gmail.com" alt="smottakee@gmail.com">
   </a>
-  <a href="https://github.com/MdSayemMottakee">
-    <img src="https://img.shields.io/github/followers/MdSayemMottakee?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
-  </a>
 </p>
 
 
