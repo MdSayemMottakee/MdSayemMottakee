@@ -3,24 +3,7 @@
 
 
 ## 🌐 Socials:
-<p align="center" style="display: flex; justify-content: space-between; max-width: 800px;">
-    <a href="https://www.linkedin.com/in/md-sayem-mottakee/" rel="nofollow">
-        <img src="https://img.shields.io/badge/mdsayemmottakee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-sayem-mottakee/" alt="Linkedin Badge">
-    </a>
-
-  <a href="https://x.com/@SMottakee" rel="nofollow">
-      <img src="https://img.shields.io/badge/-@SMottakee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/@SMottakee" alt="X Badge">
-  </a>
-
-  <a href="mailto:smottakee@gmail.com">
-      <img src="https://img.shields.io/badge/-smottakee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smottakee@gmail.com" alt="Gmail Badge">
-  </a>
-
-  <a href="https://github.com/MdSayemMottakee">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MdSayemMottakee?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="20"/>
-  </a>
-</p>
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mottakee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ryuk24_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sayem-mottakee/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SMottakee) 
 
 
 # 💻 Tech Stack:
