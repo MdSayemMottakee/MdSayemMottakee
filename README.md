@@ -4,25 +4,22 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/X">
+  <a href="https://facebook.com/Mottakee"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/X">
+  <a href="https://instagram.com/__ryuk24__/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/X/">
+  <a href="https://www.linkedin.com/in/md-sayem-mottakee/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/@X">
+  <a href="https://x.com/@SMottakee">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
   </a>
-</p>
-
-<p align="center">
-  <a href="mailto:X@gmail.com">
+  <a href="mailto:smottakee@gmail.com">
     <img src="https://img.shields.io/badge/-X@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:X@gmail.com" alt="Gmail">
   </a>
-  <a href="https://github.com/X">
+  <a href="https://github.com/MdSayemMottakee">
     <img src="https://img.shields.io/github/followers/X?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
   </a>
 </p>
