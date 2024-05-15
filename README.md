@@ -3,9 +3,11 @@
 </p>  
 
 
-![DevOps Enthusiast](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3NGE2ejQ0NG82ZjRwZjNqNG02NHpnbHM4cDB3YmVmdm41d2s1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3NGE2ejQ0NG82ZjRwZjNqNG02NHpnbHM4cDB3YmVmdm41d2s1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" alt="DevOps Enthusiast" width="400"/>
+  <img src="https://img.freepik.com/fotos-premium/ciberseguridad-proteccion-datos-digitales-conceptual_31965-20714.jpg" alt="Cyber Security" width="400"/>
+</p>
 
-![Cyber Security](https://img.freepik.com/fotos-premium/ciberseguridad-proteccion-datos-digitales-conceptual_31965-20714.jpg)
 
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/MdSayemMottakee">Md Sayem Mottakee</a></h3>
