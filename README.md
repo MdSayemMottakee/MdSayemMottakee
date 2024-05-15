@@ -1,13 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&random=false&width=435&lines=I+am+a+passionate+problem+solver;and+Backend+Developer%F0%9F%92%BB." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+cyber+security;Protecting+data+and+systems+is+my+mission;Always+learning+and+improving+in+the+field" alt="Typing SVG" /></a>
 </p>  
 
 
 
-![DevOps Enthusiast](https://cdn0.scrvt.com/fokus/b10b9460c59ce9fe/1a1bf772ad3a/v/71c632bfce7e/AI_KI_970x485.jpg?nowebp=1)
+![DevOps Enthusiast](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3NGE2ejQ0NG82ZjRwZjNqNG02NHpnbHM4cDB3YmVmdm41d2s1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif)
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/MdSayemMottakee">Md Sayem Mottakee</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 # 💫 About Me:
 ⚡ Passionate about cybersecurity<br>🏆 Excellent reputation for solving security challenges<br>🧙‍♂️ Experienced and skilled in penetration testing and exploit development<br>💻 Solved many cybersecurity challenges in CTFs and Bug Hunting<br>🛡️ Team player and thrive on tackling new security challenges<br>👯 I’m looking to collaborate on Ethical Hacking projects<br>💬 Ask me about cybersecurity, penetration testing, and exploit development
