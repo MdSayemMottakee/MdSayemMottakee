@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+cyber+security;Protecting+data+and+systems+is+my+mission;Always+learning+and+improving+in+the+field" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+cyber+security+ ;Protecting+data+and+systems+is+my+mission+ ;Always+learning+and+improving+in+the+field+ " alt="Typing SVG" /></a>
 </p>  
 
 
