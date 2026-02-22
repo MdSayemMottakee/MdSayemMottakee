@@ -1,28 +1,25 @@
-# Md Sayem Mottakee
+<div align="center">
+  <h1>Md Sayem Mottakee</h1>
+  <p><em>Navigating the Architecture of Secure Systems & Exploring the Intersection of Offense and Assurance</em></p>
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Security+Learner;Penetration+Testing+Enthusiast;Software+Quality+Assurance+Beginner;CTF+Player+%26+Security+Student" alt="Typing SVG" />
-  </a>
-</p>
+## 🛡️ The Pursuit of Security
 
-## 🛡️ My Security Learning Journey
+I am deeply committed to exploring the complexities of ethical hacking, penetration testing, and Software Quality Assurance. My journey is driven by a curiosity for how systems are built—and how they can be better secured through research, diligence, and continuous learning.
 
-I am a passionate and dedicated **Cybersecurity learner** exploring the world of ethical hacking, penetration testing, and Software Quality Assurance (SQA). I enjoy solving complex security challenges, participating in CTFs, and documenting my progress as I grow in this field.
-
-- 🛡️ **Interests**: Penetration Testing, Web Security, Exploit Development.
-- 💻 **Active Learning**: Solving rooms on TryHackMe and participating in CTFs.
-- 🤝 **Collaboration**: Always open to learning together and collaborating on security research projects.
-- 💬 **Ask me about**: My learning path, tools I'm exploring, and CTF writeups.
+- 🛡️ **Focus**: Penetration Testing, Web Security, Security Research.
+- 💻 **Active Learning**: Immersed in CTFs and security labs to refine technical skills.
+- 🤝 **Collaboration**: Valuing shared knowledge and open to collaborating on meaningful security projects.
+- 💬 **Ask me about**: Tools I'm currently exploring or the technical challenges I'm solving.
 
 ---
 
 ## 💻 Technical Expertise
 
-### Languages & Core Web
+### Languages & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Databases & Tools
+### Infrastructure & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 
 ---
@@ -46,16 +43,10 @@ I am a passionate and dedicated **Cybersecurity learner** exploring the world of
 
 ---
 
-## 📊 Stats & Fun
+## 📈 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdSayemMottakee&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&icon_color=0077B5" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSayemMottakee&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" alt="Top Languages" width="48%" />
-</p>
-
-### 🎭 Dev Meme of the Moment
-<p align="center">
-  <img src="https://github-readme-memes.vercel.app/api/chulapa" alt="Development Meme" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdSayemMottakee&theme=github" alt="GitHub Profile Summary" width="90%" />
 </p>
 
 ---
