@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Security+Professional;Penetration+Tester+%26+Exploit+Developer;Software+Quality+Assurance+Enthusiast;CTF+Player+%26+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Security+Learner;Penetration+Testing+Enthusiast;Software+Quality+Assurance+Beginner;CTF+Player+%26+Security+Student" alt="Typing SVG" />
   </a>
 </p>
 
-## 🛡️ Professional Profile
+## 🛡️ My Security Learning Journey
 
-Passionate and dedicated **Cybersecurity professional** with a proven track record of identifying vulnerabilities and securing digital assets. Experienced in penetration testing, exploit development, and solving complex security challenges. Committed to continuous learning and excellence in both security research and Software Quality Assurance (SQA).
+I am a passionate and dedicated **Cybersecurity learner** exploring the world of ethical hacking, penetration testing, and Software Quality Assurance (SQA). I enjoy solving complex security challenges, participating in CTFs, and documenting my progress as I grow in this field.
 
-- 🛡️ **Expertise**: Penetration Testing, Exploit Development, Web Security.
-- 💻 **Active Presence**: Extensive participation in CTFs and Bug Hunting.
-- 🤝 **Collaboration**: Open to collaborating on Ethical Hacking and Security Research projects.
-- 💬 **Ask me about**: Network Security, Secure SDLC, and Automated Testing.
+- 🛡️ **Interests**: Penetration Testing, Web Security, Exploit Development.
+- 💻 **Active Learning**: Solving rooms on TryHackMe and participating in CTFs.
+- 🤝 **Collaboration**: Always open to learning together and collaborating on security research projects.
+- 💬 **Ask me about**: My learning path, tools I'm exploring, and CTF writeups.
 
 ---
 
@@ -46,20 +46,19 @@ Passionate and dedicated **Cybersecurity professional** with a proven track reco
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Stats & Fun
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdSayemMottakee&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&icon_color=0077B5" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSayemMottakee&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" alt="Top Languages" width="48%" />
 </p>
 
+### 🎭 Dev Meme of the Moment
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdSayemMottakee&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=333" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-memes.vercel.app/api/chulapa" alt="Development Meme" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MdSayemMottakee&icon=0&color=0" alt="Visit Count" />
-</p>
+
 
