@@ -5,7 +5,7 @@
 
 ## 🛡️ The Pursuit of Security
 
-I am deeply committed to exploring the complexities of ethical hacking, penetration testing, and Software Quality Assurance. My journey is driven by a curiosity for how systems are built—and how they can be better secured through research, diligence, and continuous learning.
+I am deeply committed to exploring the complexities of ethical hacking, penetration testing, and Software Quality Assurance. My journey is driven by a curiosity for how systems are built and how they can be better secured through research, diligence, and continuous learning.
 
 - 🛡️ **Focus**: Penetration Testing, Web Security, Security Research.
 - 💻 **Active Learning**: Immersed in CTFs and security labs to refine technical skills.
