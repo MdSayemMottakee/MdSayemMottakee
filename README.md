@@ -1,16 +1,25 @@
 <div align="center">
   <h1>Md Sayem Mottakee</h1>
-  <p><em>Navigating the Architecture of Secure Systems & Exploring the Intersection of Offense and Assurance</em></p>
+  <p><em>Building reliable software, ensuring quality, and securing systems from the ground up</em></p>
 </div>
 
-## 🛡️ The Pursuit of Security
+## About Me
 
-I am deeply committed to exploring the complexities of ethical hacking, penetration testing, and Software Quality Assurance. My journey is driven by a curiosity for how systems are built and how they can be better secured through research, diligence, and continuous learning.
+As a Computer Science graduate, I thrive at the intersection of building software and breaking it, in the best way possible.
 
-- 🛡️ **Focus**: Penetration Testing, Web Security, Security Research.
-- 💻 **Active Learning**: Immersed in CTFs and security labs to refine technical skills.
-- 🤝 **Collaboration**: Valuing shared knowledge and open to collaborating on meaningful security projects.
-- 💬 **Ask me about**: Tools I'm currently exploring or the technical challenges I'm solving.
+I develop backend applications with Python, design clean and testable code, and bring a QA mindset to everything I build, from test case design to bug tracking and debugging. I believe software quality isn't a phase; it's a habit.
+
+On the security side, I actively sharpen my skills through CTF challenges and security labs. This hands-on practice helps me understand how vulnerabilities work so I can build applications that are resilient from the start.
+
+I'm also expanding into AI and Machine Learning, working with Python-based tools, exploring data analysis, and building foundational models as I grow in this space.
+
+Currently open to entry-level and internship roles in **Python Development**, **Software Quality Assurance**, and **Cybersecurity**. I'm ready to learn fast, contribute meaningfully, and grow with a great team.
+
+- 🐍 **Focus**: Python Development, Software Quality Assurance, Cybersecurity
+- 🛡️ **Active Learning**: Immersed in CTF challenges and security labs to sharpen offensive and defensive skills
+- 🤖 **Exploring**: AI/ML with Python-based tools, data analysis, and model building
+- 🤝 **Collaboration**: Open to meaningful projects in security, backend development, or QA
+- 💬 **Ask me about**: Python, bug tracking, CTFs, or tools I'm currently exploring
 
 ---
 
